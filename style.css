@@ -1,0 +1,11 @@
+#grid{
+    width: 480px;
+    height: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px solid red;
+}
+
+.styleCard{
+    width: 120px;
+}
